@@ -1,0 +1,39 @@
+---
+componentName:   pardus
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,580px
+windowPlacement: center
+
+strings:
+    productName:         Pardus GNU/Linux
+    shortProductName:    Pardus
+    version:             25
+    shortVersion:        25
+    versionedName:       Pardus 25
+    shortVersionedName:  Pardus 25
+    bootloaderEntryName: Pardus
+    productUrl:          https://pardus.org.tr/
+    supportUrl:          https://forum.pardus.org.tr/
+#    knownIssuesUrl:      https://talep.pardus.org.tr/
+    releaseNotesUrl:     https://pardus.org.tr
+    donateUrl:           https://pardus.org.tr
+
+sidebar: widget
+navigation: widget
+
+images:
+    productLogo:         "emblem-pardus.png"
+    productIcon:         "emblem-pardus.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+  SidebarBackground:         "#ffcb08"  # Pardus Yellow
+  SidebarText:               "#000000"  # Black
+  SidebarTextCurrent:        "#ffffff"  # White (for contrast)
+  SidebarBackgroundCurrent:  "#d4a906"  # A darker "Gold" for the active tab
+
+slideshowAPI: 2

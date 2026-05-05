@@ -1,0 +1,11 @@
+Source: pardus-calamares-settings
+Section: misc
+Priority: optional
+Maintainer: Edip Hazuri <edip@medip.dev>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+
+Package: pardus-calamares-settings
+Architecture: all
+Depends: calamares, ${misc:Depends}
+Description: Custom Pardus branding and configuration for Calamares installer.
