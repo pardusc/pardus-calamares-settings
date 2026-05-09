@@ -1,3 +1,3 @@
-etc/calamares/*                 etc/calamares/
-usr/lib/calamares/modules/*     usr/lib/calamares/modules/
-usr/share/calamares/helpers/*   usr/share/calamares/helpers/
+etc/calamares etc/
+usr/lib/calamares usr/lib/
+usr/share/calamares usr/share
