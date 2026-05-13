@@ -17,10 +17,10 @@ strings:
     productUrl:          https://pardus.org.tr/
     supportUrl:          https://forum.pardus.org.tr/
 #    knownIssuesUrl:      https://talep.pardus.org.tr/
-    releaseNotesUrl:     https://pardus.org.tr
-    donateUrl:           https://pardus.org.tr
+    releaseNotesUrl:     https://pardus.org.tr/pardus-surum-yonetimi/
+#    donateUrl:           https://pardus.org.tr
 
-sidebar: widget
+sidebar: none
 navigation: widget
 
 images:
