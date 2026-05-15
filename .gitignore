@@ -1,0 +1,9 @@
+*.deb
+*.build
+*.buildinfo
+*.changes
+*.tar.gz
+*debhelper*
+*.substvars
+debian/files
+debian/pardus-calamares-settings
