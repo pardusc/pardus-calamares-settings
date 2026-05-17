@@ -7,5 +7,5 @@ Standards-Version: 4.6.0
 
 Package: pardus-calamares-settings
 Architecture: all
-Depends: calamares, ${misc:Depends}
+Depends: calamares, pardus-calamares-modules, ${misc:Depends}
 Description: Custom Pardus branding and configuration for Calamares installer.
