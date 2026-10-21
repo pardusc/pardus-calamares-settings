@@ -1,5 +1,13 @@
 pardus-calamares-settings (0.0.1) unstable; urgency=medium
 
+  [ Edip Hazuri ]
+  * Update config and add gh actions
+  * add license and readme
+  * update config
+  * add gitignore
+  * rename gh workflow file name
+  * Migrate to the custom welcome-autoinst module for autoinstall
+  * Remove pardus-calamares-settings package after the installation
   * Initial release.
 
- -- Edip Hazuri <edip@medip.dev>  Tue, 05 May 2026 12:00:00 +0000
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 21 Oct 2026 22:15:07 +0300
