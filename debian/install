@@ -1,3 +1,5 @@
 etc/calamares etc/
 usr/lib/calamares usr/lib/
 usr/share/calamares usr/share
+usr/share/applications usr/share/
+usr/share/icons usr/share/

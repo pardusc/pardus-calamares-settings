@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Pardus
+Name[tr]=Pardus Yükle
+GenericName=System Installer
+GenericName[tr]=Sistem Yükleyici
+Comment=Install Pardus GNU/Linux permanently to your hard disk
+Comment[tr]=Pardus GNU/Linux sistemini kalıcı olarak sabit diskinize yükleyin
+Exec=pkexec /usr/bin/calamares
+Icon=pardus-installer
+Terminal=false
+Categories=System;X-Pardus-Apps;
+Keywords=calamares;system;install;pardus;installer;
+StartupNotify=true
+StartupWMClass=calamares
